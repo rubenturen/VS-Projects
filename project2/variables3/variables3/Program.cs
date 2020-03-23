@@ -11,7 +11,7 @@ namespace variables3
         static void Main(string[] args)
         {
             const float Pi = 3.14f;
-            Pi = 1;
+            Pi = 1;                  //Won't work
         }
     }
 }
